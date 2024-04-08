@@ -34,3 +34,5 @@ if index != -1:
     print(f"Found {target} at index {index}")
 else:
     print(f"Not found {target}")
+    
+print(random_values)
